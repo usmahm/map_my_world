@@ -10,8 +10,8 @@
   
   <!-- Mapping Node -->
   <group ns="rtabmap">
-    <!-- <node name="rtabmap" pkg="rtabmap_slam" type="rtabmap" output="screen" args="delete_db_on_start"> -->
-    <node name="rtabmap" pkg="rtabmap_slam" type="rtabmap" output="screen">
+    <node name="rtabmap" pkg="rtabmap_slam" type="rtabmap" output="screen" args="delete_db_on_start">
+    <!-- <node name="rtabmap" pkg="rtabmap_slam" type="rtabmap" output="screen"> -->
 
 
       <!-- Basic RTAB-Map Parameters -->
